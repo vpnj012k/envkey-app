@@ -60,7 +60,7 @@
     "redux-localstorage-filter": "^0.1.1",
     "redux-saga": "^0.14.7",
     "reselect": "^2.5.4",
-    "scroll-into-view": "^1.8.0",
+    "scroll-into-view": "^1.15.0",
     "semver": "^5.5.0",
     "sjcl": "^1.0.6",
     "traversty": "^1.0.5",
