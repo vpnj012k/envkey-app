@@ -14,7 +14,7 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw]
 # Middleman Gems
 gem 'sass'
 gem 'middleman-sprockets', '>= 4.0.0.rc.1'
-gem 'middleman', '>= 4.0.0.rc.1'
+gem 'middleman', '>= 4.3.8'
 gem "middleman-livereload", github: 'middleman/middleman-livereload'
 gem 'sass-globbing'
 gem 'rack-rewrite', '~> 1.5.0'
